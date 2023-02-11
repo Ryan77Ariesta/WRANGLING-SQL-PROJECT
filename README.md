@@ -4,7 +4,7 @@ BY RYAN ARIESTA
 
 REPOSITORY LINK
 Project ini menggunakan “Jupyter Notebook” please check my repository link :
-https://github.com/Ryan77Ariesta/WRANGLING-SQL-PROJECT
+https://medium.com/@ryan77ariesta/wrangling-sql-project-a9f511675d46
 
 STEP 1 — OBJECTIVE
 Mengetahui Product apa yang paling banyak dipesan
